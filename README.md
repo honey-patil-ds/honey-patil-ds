@@ -86,4 +86,4 @@ run.say_hi()
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<p align="center"><i>"In God we trust. All others must bring data." — W. Edwards Deming</i></p>
+
