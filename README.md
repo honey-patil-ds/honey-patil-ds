@@ -25,7 +25,7 @@ Email Me 👉 ✉️ **honeypatil1231@gmail.com** For Collaboration/Project or A
 - 😄 **Pronouns:** Honey Patil
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 
 
-## 🔗 I am a Content Creator. 😊😊
+
 ---
 
 ### ⚡ About the Chaos Behind the Code
