@@ -11,6 +11,21 @@
   <a href="mailto:honeypatil1231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+# 💫 Hi 👋, I'm Honey Patil
+**A Data Science Student  || Training models & debugging life decisions || Turning messy CSVs into clean insight
+
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Weather prediction
+- 🌱 **I’m currently learning:** Pytouch
+- 👯 **I’m looking to collaborate on:** Weather prediction to make Decision perfect 
+- 🤔 **I’m looking for help with:** Weather prediction
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** honeypatil1231@gmail.com
+- 😄 **Pronouns:** Honey Patil
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me 
+
+## 🔗 I am a Content Creator. 😊😊
 ---
 
 ### ⚡ About the Chaos Behind the Code
