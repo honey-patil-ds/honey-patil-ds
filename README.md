@@ -11,7 +11,7 @@
   <a href="mailto:honeypatil1231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-# 💫 Hii 👋, I'm Honey Patil
+#  Hi 👋, I'm Honey Patil
 **A Data Science Student || Training models & debugging life decisions || Turning messy CSVs into clean insight**
 
 Email Me 👉 ✉️ **honeypatil1231@gmail.com** For Collaboration/Project or Anything Else. 😊😊
