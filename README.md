@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=honey-patil-ds&icon=0&color=0"/>
+  <a href="https://x.com/honeypatilds"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
   <a href="https://instagram.com/show_code_work"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/honey-patil-ds"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:honeypatil1231@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
