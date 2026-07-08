@@ -12,7 +12,7 @@
 </p>
 
 # 💫 Hi 👋, I'm Honey Patil
-**A Data Science Student  || Training models & debugging life decisions || Turning messy CSVs into clean insight
+**A Data Science Student  || Training models & debugging life decisions || Turning messy CSVs into clean insight **
 
 Email Me 👉 ✉️ **honeypatil1231@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -59,7 +59,7 @@ run.say_hi()
 
 ### 📊 GitHub Stats
 
-<--!![](https://github-readme-stats.shion.dev/api?username=honey955&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
+!![](https://github-readme-stats.shion.dev/api?username=honey955&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=honey955&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=honey955&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
